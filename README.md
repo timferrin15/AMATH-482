@@ -8,3 +8,5 @@ Projects include:
 3) Principal Component Analysis: A Picture Paints a Thousand Data Points
 4) Music Classification: I Walk the Line(ar Discriminant Analysis)
 5) Neural Networks: Cast Your Net Wide
+
+*No data files are included, due to the size/copyright issues associate with posting such data
