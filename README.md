@@ -1,4 +1,5 @@
 # AMATH-482
+Tim Ferrin
 All Homework reports and code from AMATH 482: Computational Methods for Data Analysis
 
 Projects include:
